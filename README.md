@@ -49,4 +49,4 @@ To check that it works try to get `localhost:5000` - it will print the
 **TarantoolBot Journal** message, if all is ok. After this set a GitHub hook in
 the repository, that you want the bot tracks. The hook must send notifications
 about new comments in all issues, about closed issues, log all events onto its
-webpage.
+webpage. 1
